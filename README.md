@@ -1,4 +1,5 @@
 ## Hi there 👋
+Drummer by day, Programmer by night!
 
 <!--
 **3var1ste/3var1ste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
